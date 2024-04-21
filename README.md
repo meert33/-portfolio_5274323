@@ -10,4 +10,5 @@ Anweisungen zur Installation und Ausführung:
 3.0 Globale Umgebungsvariable erstellen: Um den Flutter-Befehl in PowerShell auszuführen, fügen wie Flutter der Umgebungsvariablen PATH hinzu. In diesem Abschnitt wird davon ausgegangen, dass Sie das Flutter-SDK in %USERPROFILE%\dev\flutter installiert haben. Anschließend den Befehlen auf Flutter folgen (https://docs.flutter.dev/get-started/install/windows/desktop?tab=download)
 4.0 Android Studio installieren(https://developer.android.com/studio?hl=de) neuste Version installieren die angezeigt wird. Anschließend immer weiter und fertigstellen und starten. Als nächstes kommen alle lizensen von Android Studio (rot), denen man zustimmen muss, damit man es nutzen darf. Nachdem man es Bestätigt hat werden alle Tools heruntergeladen. Zum schluss finish klicken und man kann es nutzen :)
 5.0 Cmdline-tools installieren: In Android Studio auf SDK-Manager klicken und anschließend auf SDK-Tools. Dann bei Android SDK Command-line Tools den hacken setzen und auf apply klicken. Anschließend bestätigen und OK klicken
-6.0 Android Lizenzen akzeptieren:
+6.0 Android Lizenzen akzeptieren: flutter doctor--android-licenses in der Eingabeaufforderung eingeben und mit Y bestätigen bis es fertig ist.
+7.0 Visual Studio installieren (https://visualstudio.microsoft.com/de/#vs-section)
