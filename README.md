@@ -11,4 +11,7 @@ Anweisungen zur Installation und Ausführung:
 4.0 Android Studio installieren(https://developer.android.com/studio?hl=de) neuste Version installieren die angezeigt wird. Anschließend immer weiter und fertigstellen und starten. Als nächstes kommen alle lizensen von Android Studio (rot), denen man zustimmen muss, damit man es nutzen darf. Nachdem man es Bestätigt hat werden alle Tools heruntergeladen. Zum schluss finish klicken und man kann es nutzen :)
 5.0 Cmdline-tools installieren: In Android Studio auf SDK-Manager klicken und anschließend auf SDK-Tools. Dann bei Android SDK Command-line Tools den hacken setzen und auf apply klicken. Anschließend bestätigen und OK klicken
 6.0 Android Lizenzen akzeptieren: flutter doctor--android-licenses in der Eingabeaufforderung eingeben und mit Y bestätigen bis es fertig ist.
-7.0 Visual Studio installieren (https://visualstudio.microsoft.com/de/#vs-section)
+7.0 Visual Studio Community installieren (https://visualstudio.microsoft.com/de/#vs-section). Anschließend bei Flutter Doctor schauen was man sich herunterladen soll. Bei uns ist es (Mobile) und Desktop developement with C++. installieren.
+8.0 Flutter Plugin installieren (Android Studio Marketplace): Flutter und Dart auf Android Studio installieren.
+9.0 Pfad zur Flutter SDK in Android Studio eintragen
+10.0 Visual Studio Code installieren: Lizensen akzeptieren und auf weiter. Danach auch hier nach flutter suchen und installieren. Zum schluss  Initialisiere innerhalb des Repositories ein neues Flutter-Projekt mit dem Befehl flutter create.
