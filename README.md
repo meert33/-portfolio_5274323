@@ -15,3 +15,5 @@ Anweisungen zur Installation und Ausführung:
 8.0 Flutter Plugin installieren (Android Studio Marketplace): Flutter und Dart auf Android Studio installieren.
 9.0 Pfad zur Flutter SDK in Android Studio eintragen
 10.0 Visual Studio Code installieren: Lizensen akzeptieren und auf weiter. Danach auch hier nach flutter suchen und installieren. Zum schluss  Initialisiere innerhalb des Repositories ein neues Flutter-Projekt mit dem Befehl flutter create.
+
+Aufgabe 3: Your application code is in portfolio_5274323\lib\main.dart.
